@@ -16,3 +16,20 @@
 ##### My Github me
 
 ![Ridwanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ridwantoday&show_icons=true&theme=radical)
+
+
+<h2 align="left">Play Game with Me</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ridwantoday/ridwantoday/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridwantoday/ridwantoday/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ridwantoday/ridwantoday/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/ridwantoday/ridwantoday/output/snake.svg" alt="Snake animation" />
+
+###
