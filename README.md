@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there.. I am Ridwanto ! 🎶🎶
 
+
+![ridwantoday](img/github-header-banner.png)
 <!--
 **Ridwantoday/Ridwantoday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
