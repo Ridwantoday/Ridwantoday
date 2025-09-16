@@ -1,4 +1,4 @@
-## Hi there.. I am Ridwanto ! 🎶🎶
+## Hi there..  🎶🎶
 
 
 ![ridwantoday](img/github-header-banner.png)
